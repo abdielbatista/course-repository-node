@@ -1,0 +1,13 @@
+*** CURSO NODE ****
+
+- NPM é um gerenciador de pacotes do Node.js
+
+- a pasta "node_modules (onde fica o pacotes instalados pelo NPM) deve ser oculta
+	ou seja, devemos adicionar a mesma no .env
+
+- repositorio do curso:
+	github.com/matheusbattisti/curso_node
+	
+- modulos
+	modulos são scripts reaproveitaveis, ou seja, ja estao prontos
+	assim podemos aproveitar os mesmos no programa
