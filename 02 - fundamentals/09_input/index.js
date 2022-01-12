@@ -3,7 +3,7 @@ const readline = require('readline').createInterface({
     output: process.stdout,
 })
 
-readline.question('Qual a sua linguagem preferida?', (language) =>{
+readline.question('Qual a sua linguagem preferida? ', (language) =>{
     console.log(`Minha linguagem preferida é: ${language}`)
     readline.close()
 })
